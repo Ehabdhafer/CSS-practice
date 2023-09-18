@@ -1,0 +1,27 @@
+.two{
+    background-color: #f9f9d4;
+    width: 800px;
+    height: 500px;
+    border-right: 4px solid black;
+}
+.to{
+    overflow: hidden;
+    display: inline-block;
+    margin: 0 10px;
+    padding: 0 20px 0 10px;
+    width: 200px;
+    height: 100px;
+    background-color: #828d9980;
+}
+.tw{
+    overflow: hidden scroll;
+    width: 780px;
+    height: 60px;
+    margin: 0 20px 0 0;
+    padding: 0 10px;
+    font-weight: bold;
+}
+.hr{
+    border: 1px solid;
+    margin: 8px;
+}

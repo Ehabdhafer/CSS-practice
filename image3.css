@@ -1,0 +1,21 @@
+.first{
+    font-weight: bold;
+    text-decoration: underline;
+}
+.p2{
+    color: blue;
+}
+.l1{
+    text-decoration: underline;
+    color: orange;
+}
+
+.d1{
+    color: blue;
+}
+.l2{
+    color: red;
+}
+.ul1{
+    list-style: none;
+}
